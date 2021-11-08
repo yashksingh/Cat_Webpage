@@ -3,8 +3,11 @@
 ### About the Repository:
 
 - Webpage based on cats.
+
 - Using the button we can change the cat images.
+
 - This is similar to the background slider project.
+
 - Giving hover effect to the button element.
 
 <hr>
